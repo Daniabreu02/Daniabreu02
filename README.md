@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Daniabreu02
-- 👀 I’m interested in backend...
-- 🌱 I’m currently learning Java...
+**👋 Olá, sou Danielly Lopes!**
+  <br>🚀 Estou desenvolvendo pequenos projetos para praticar lógica, APIs e bancos de dados relacionais.
+  <br>📚 Em constante aprendizado e apaixonado por resolver problemas com código.
+  
   ##
   <divisao estilo="mostrar: bloco_em_linha"><br>
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt=Dani-java height="40" width="50" src="https://avatars.githubusercontent.com/u/1168968?v=4">
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </divisao>
